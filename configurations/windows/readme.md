@@ -34,6 +34,7 @@ If your version is **less than 13**, follow these steps:
    ```sh
    g++ --version
    ```
+5. Add the folder `C:\msys64\ucrt64\bin` in your environment variables path.
 ---
 
 ### 3️⃣ Install **Code Runner & Extensions** 🔌  
